@@ -1,0 +1,11 @@
+/*Dep3_Prog1:Basico*/
+
+#include <stdio.h>
+
+int main()
+{
+    int a, b, c;
+    printf ("\n Escribe el valor a: ");
+    scanf ("%d", &a);
+
+}
