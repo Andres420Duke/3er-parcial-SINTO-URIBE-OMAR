@@ -8,7 +8,7 @@ int main()
 
     if (
     
-       )
+       ) //incompleto
        {
            printf("\n El numero es PAR");
        }
