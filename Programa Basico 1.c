@@ -14,7 +14,7 @@ int main()
     b = b * 2;
     c = c * c;
 
-    printf ("\n\n Ahora el valor de a es %d", a)
+    printf ("\n\n Ahora el valor de a es %d", a) //Revisa
     printf ("\n\n Ahora el valor de b es %d", b)
     printf ("\n\n Ahora el valor de c es %d", c);
 
